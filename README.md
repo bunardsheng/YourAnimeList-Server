@@ -7,4 +7,4 @@
 5. start the server, node index.js
 ----------------------
 
-Back-end written in Node.js and Express.js
+Written in JS (Node.js and Express.js)
